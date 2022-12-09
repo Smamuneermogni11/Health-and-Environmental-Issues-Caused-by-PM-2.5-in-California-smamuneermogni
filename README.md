@@ -17,6 +17,9 @@ Evaluation: The work that was created overall, was to demonstrate that areas tha
 
 Deployment: is demonstrated through the analysis maps and the final output map that demonstrates the lack of hospitals, and the increase in cases of Asthma within Los Angeles and San Bernardino.
 
+## Final Map:
+https://agis.maps.arcgis.com/home/item.html?id=ac12d8b24b41450583961105888de241
+
 ## Works Cited
 California Air Quality index (AQI) and USA Air Pollution. IQAir. (n.d.). Retrieved December 4, 2022, from https://www.iqair.com/us/usa/california
 
